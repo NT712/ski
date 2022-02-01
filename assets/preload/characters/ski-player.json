@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ski flip idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ski flip right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-84
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ski flip down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ski flip left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				51
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ski flip up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ski_but_player",
+	"position": [
+		60,
+		280
+	],
+	"healthicon": "ski",
+	"flip_x": false,
+	"healthbar_colors": [
+		141,
+		101,
+		201
+	],
+	"camera_position": [
+		0,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
